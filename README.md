@@ -1,4 +1,4 @@
-//Algoritmo 1
+# Algoritmo 1
 
 #include <stdio.h>
 #include <stdlib.h>
